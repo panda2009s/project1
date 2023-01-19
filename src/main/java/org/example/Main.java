@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Число четное");
         }
 
-
+//аа
         if (number % 10 == 3) {
             System.out.println("Число окончивается на 3");
         } else {
